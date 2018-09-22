@@ -1,4 +1,4 @@
-# IMDb Sentimentanalysis
+# IMDb Sentiment analysis
 
 [Udacity NLP Nanodegree](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892)
 
